@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/legionnet/integram"
-	api "github.com/integram-org/gitlab/api"
+	api "github.com/legionnet/gitlab/api"
 	"golang.org/x/oauth2"
 )
 
