@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/requilence/integram"
+	"github.com/legionnet/integram"
 	api "github.com/integram-org/gitlab/api"
 	"golang.org/x/oauth2"
 )
