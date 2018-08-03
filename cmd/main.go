@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/requilence/integram"
-	"github.com/integram-org/gitlab"
+	"github.com/legionnet/integram"
+	"github.com/legionnet/gitlab"
 	"github.com/kelseyhightower/envconfig"
 )
 
